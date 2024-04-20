@@ -1,0 +1,9 @@
+dotnet run rock paper scissors
+dotnet run rock paper scissors spock lizard batman joker
+
+dotnet run rock paper paper
+dotnet run rock paper scissors spock
+dotnet run rock paper
+
+dotnet run rock paper scissors spock lizard
+
